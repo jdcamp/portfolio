@@ -1,17 +1,21 @@
 .container .intro{
   margin-left: 25%;
   margin-right: 25%;
-
 }
-h3 {
+.center-header {
   text-align: center;
 }
-.intro h2{
-  text-align: center;
+.intro h2 {
+  text-transform: uppercase;
 }
 .intro img {
-  float: right;
-  margin: 5px 5px 5px 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 4px;
+}
+.intro p {
+  text-align: center;
 }
 body {
    background-image: url(https://subtlepatterns.com/patterns/sayagata-400px.png);
@@ -20,9 +24,9 @@ body {
 .logo-format {
   width: 25px;
 }
-@media screen and (max-width: 991px) {
-  .intro p {
-    word-wrap: break-word;
-    text-align: center;
-  }
+.panel .panel-heading {
+  background-color: #EfFCDB;
+}
+.panel .panel-body{
+
 }
