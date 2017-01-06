@@ -27,6 +27,10 @@ body {
 .panel .panel-heading {
   background-color: #EfFCDB;
 }
-.panel .panel-body{
-
+.image-format {
+  width: 200px
+}
+.important-font {
+  font-weight: bolder;
+  text-decoration: underline;
 }
