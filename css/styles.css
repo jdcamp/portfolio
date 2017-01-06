@@ -1,0 +1,15 @@
+img.intro {
+  float: right;
+  border: 3px solid red;
+  margin: 0px 0px 5px 5px;
+}
+p.intro {
+
+}
+ #first-image {
+   float: right;
+ }
+ body {
+   margin-left: 20%;
+   margin-right: 20%;
+ }
