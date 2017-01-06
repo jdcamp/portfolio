@@ -1,16 +1,17 @@
-img.intro {
-  float: right;
-  border: 3px solid red;
-  margin: 0px 0px 5px 5px;
-}
-p.intro {
+.container .intro{
+  margin-left: 20%;
+  margin-right: 20%;
 
 }
- #first-image {
-   float: right;
- }
- body {
-   margin-left: 20%;
-   margin-right: 20%;
+
+.intro h2{
+  text-align: center;
+}
+.intro img {
+  float: right;
+  margin: 5px 5px 5px 5px;
+}
+body {
    background-image: url(https://subtlepatterns.com/patterns/sayagata-400px.png);
- }
+   font-family: sans-serif;
+}
