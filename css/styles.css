@@ -1,6 +1,6 @@
 .container .intro{
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 25%;
+  margin-right: 25%;
 
 }
 
@@ -14,4 +14,10 @@
 body {
    background-image: url(https://subtlepatterns.com/patterns/sayagata-400px.png);
    font-family: sans-serif;
+}
+@media screen and (max-width: 991px) {
+  .intro p {
+    word-wrap: break-word;
+    text-align: center;
+  }
 }
