@@ -3,7 +3,9 @@
   margin-right: 25%;
 
 }
-
+h3 {
+  text-align: center;
+}
 .intro h2{
   text-align: center;
 }
@@ -14,6 +16,9 @@
 body {
    background-image: url(https://subtlepatterns.com/patterns/sayagata-400px.png);
    font-family: sans-serif;
+}
+.logo-format {
+  width: 25px;
 }
 @media screen and (max-width: 991px) {
   .intro p {
