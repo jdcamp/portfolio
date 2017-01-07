@@ -5,7 +5,6 @@
 .center-header {
   text-align: center;
 }
-
 .intro img {
   display: block;
   margin-left: auto;
@@ -35,4 +34,7 @@
 body {
   background-image: url(https://subtlepatterns.com/patterns/sayagata-400px.png);
   font-family: sans-serif;
+}
+#hidden-text {
+  display: none;
 }
